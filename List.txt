@@ -14,7 +14,7 @@ Salmon
 Prosciutto
 Pepper
 Salt
-Chips
+
 Salsa
 Mac and Cheese
 Carrots
@@ -22,3 +22,6 @@ Eggs
 Ham
 Steak
 Almonds
+
+Cookies
+Ice Cream
