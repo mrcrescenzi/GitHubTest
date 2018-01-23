@@ -14,10 +14,7 @@ Salmon
 Prosciutto
 Pepper
 Salt
-<<<<<<< HEAD
-=======
 Chips
->>>>>>> parent of c9f03d1... subtracted chips, added cookies & ice cream
 Salsa
 Mac and Cheese
 Carrots
@@ -25,8 +22,5 @@ Eggs
 Ham
 Steak
 Almonds
-<<<<<<< HEAD
 Cookies
 
-=======
->>>>>>> parent of c9f03d1... subtracted chips, added cookies & ice cream
