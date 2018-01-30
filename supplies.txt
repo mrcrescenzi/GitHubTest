@@ -1,5 +1,5 @@
 tent
 Pencil
 Notebook
-Computer
+Pillow
 Sketchbook
